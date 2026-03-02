@@ -30,6 +30,10 @@ day_1: "Thursday"
 start_time_1: "13:00"
 end_time_1: "14:30"
 
+day_2: "Thursday"
+start_time_2: "16:30"
+end_time_2: "18:00"
+
 
 room: "Mountjoy Centre"
 layout: workshop
