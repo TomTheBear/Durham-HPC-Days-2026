@@ -14,7 +14,7 @@ title: "Reinforcement Learning for Scientific and Computational Decision Making"
 
 
 
-#FACILITATOR
+#LEADS
 # Comma-separated list of the leads of the session
 lead: "Gokberk Kabacaoglu"
 # Leads photos (must match order of names above). 
@@ -25,10 +25,10 @@ lead_links:
   - ""
 
 
-#SPEAKERS
+#CONTRIBUTORS
 # Comma-separated list of the speakers of the session
 contributor: "Shimon Whiteson, Georgios Rigas, Sylvain Laizet, Xu Chu, Luca Magri, Alfredo Pinelli, Junyan Hu"
-# Speakers photos (must match order of names above). 
+# Contributors' photos (must match order of names above). 
 contributor_photos:
  - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
  - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
@@ -37,7 +37,7 @@ contributor_photos:
  - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
  - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
  - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
-# Speakers profile links (must match order of names above)
+# Contributors' profile links (must match order of names above)
 contributor_links:
   - ""
 
