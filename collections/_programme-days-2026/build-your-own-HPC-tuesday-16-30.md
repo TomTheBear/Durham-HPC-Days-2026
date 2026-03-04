@@ -20,12 +20,12 @@ lead: "Jannetta Steyn"
 # Leads photos (must match order of names above). 
 lead_photos:
   - "https://rse.ncldata.dev/images/team/jannetta.png"
-# Leads profile links (must match order of names above)
+# Leads profile links (must match order of names above, please include only one link per person)
 lead_links:
+  - "https://www.linkedin.com/in/jannetta/"
   - "https://rse.ncldata.dev/images/team/jannetta.png"
   - "https://hachyderm.io/@jannettas"
   - "https://bsky.app/profile/jannettas.bsky.social"
-  - "https://www.linkedin.com/in/jannetta/"
 
 
 #SPEAKERS
@@ -34,7 +34,7 @@ contributor: "Samantha Finnigan"
 # Speakers photos (must match order of names above). 
 contributor_photos:
  - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
-# Speakers profile links (must match order of names above)
+# Speakers profile links (must match order of names above, please include only one link per person)
 contributor_links:
   - ""
 
