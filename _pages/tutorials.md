@@ -12,7 +12,7 @@ classes: wide
   margin-right: calc(50% - 50vw);
 
   height: 50vh;
-  background-image: url("https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/Banner-darker.png?raw=true");
+  background-image: url("https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/eva-blue-banner-no-title.png?raw=true");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -134,7 +134,7 @@ classes: wide
 </section>
 
 <section class="about-grid">
-  {% assign tutorials = site.programme | where: "category", "Tutorial" | sort: "title" %}
+  {% assign tutorials = site.tutorials | where: "category", "Tutorial" | sort: "title" %}
   {% for tutorial in tutorials %}
     <div class="about-card">
       <div class="card-title">{{ tutorial.title }}</div>

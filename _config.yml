@@ -126,9 +126,12 @@ collections:
   programme-week-2026:
     output: true
     permalink: /programme-week-2026/:path/
+  programme-draft:
+    output: true
+    permalink: /programme-draft/:path/
   tutorials:
     output: true
-    permalink: /tutorials/:name/
+    permalink: /programme-tutorials/:name/
 
 category_archive:
   type: liquid
