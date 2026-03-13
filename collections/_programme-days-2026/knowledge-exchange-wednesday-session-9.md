@@ -19,7 +19,7 @@ title: "Knowledge Exchange in the DRI Community"
 facilitator: "Marion Weinzierl"
 # facilitator photos (must match order of names above). 
 facilitator_photos:
-  - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
+  - "assets/images/generic.jpg"
 # facilitator profile links (must match order of names above)
 facilitator_links:
   - ""
@@ -30,9 +30,9 @@ facilitator_links:
 speaker: "Joe Wallwork, Lewis Sampson, Louise Chisholm"
 # Speakers photos (must match order of names above). 
 speaker_photos:
- - "https://shareing-dri.github.io/assets/profilepics/generic.jpg"
- - "https://shareing-dri.github.io/assets/profilepics/generic.jpg"
- - "https://shareing-dri.github.io/assets/profilepics/generic.jpg"
+  - "assets/images/generic.jpg"
+  - "assets/images/generic.jpg"
+  - "assets/images/generic.jpg"
 # Speakers profile links (must match order of names above)
 speaker_links:
   - ""

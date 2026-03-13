@@ -19,7 +19,7 @@ title: "Research software development funding calls"
 facilitator: "Chris Johnson"
 # facilitators photos (must match order of names above). 
 facilitator_photos:
-  - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
+  - "assets/images/generic.jpg"
 # facilitators profile links (must match order of names above)
 facilitator_links:
   - ""
@@ -30,9 +30,9 @@ facilitator_links:
 speaker: "Chris Johnson, Neil Chue Hong, Lorna Smith"
 # Speakers photos (must match order of names above). 
 speaker_photos:
- - "https://shareing-dri.github.io/assets/profilepics/generic.jpg"
- - "https://shareing-dri.github.io/assets/profilepics/generic.jpg"
- - "https://shareing-dri.github.io/assets/profilepics/generic.jpg"
+  - "assets/images/generic.jpg"
+  - "assets/images/generic.jpg"
+  - "assets/images/generic.jpg"
 # Speakers profile links (must match order of names above)
 speaker_links:
   - ""

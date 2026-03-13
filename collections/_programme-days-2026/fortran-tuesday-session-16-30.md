@@ -19,7 +19,7 @@ title: "Fortran Community Meetup"
 lead: "Liam Pattinson"
 # Leads' photos (must match order of names above). 
 lead_photos:
-  - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
+  - "assets/images/generic.jpg"
 # Leads' profile links (must match order of names above)
 lead_links:
   - ""
@@ -30,9 +30,9 @@ lead_links:
 contributor: "Connor Aird, Joe Wallwork, Austen Rainer"
 # Contributors' photos (must match order of names above). 
 contributor_photos:
-- "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
-- "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
-- "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
+  - "assets/images/generic.jpg"
+  - "assets/images/generic.jpg"
+  - "assets/images/generic.jpg"
 # Contributors' profile links (must match order of names above)
 contributor_links:
   - ""

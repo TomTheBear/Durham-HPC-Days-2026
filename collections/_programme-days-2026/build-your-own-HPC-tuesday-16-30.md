@@ -33,7 +33,7 @@ lead_links:
 contributor: "Samantha Finnigan"
 # Speakers photos (must match order of names above). 
 contributor_photos:
- - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
+  - "assets/images/generic.jpg"
 # Speakers profile links (must match order of names above, please include only one link per person)
 contributor_links:
   - ""

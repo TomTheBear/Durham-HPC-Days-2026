@@ -19,8 +19,8 @@ title: "Science & AI"
 lead: "Fawada Qaiser, Jeyan Thiyagalingam"
 # Leads photos (must match order of names above). 
 lead_photos:
-  - "https://raw.githubusercontent.com/hpc-days/Durham-HPC-Days-2026/refs/heads/main/assets/images/generic.jpg"
-  - "https://raw.githubusercontent.com/hpc-days/Durham-HPC-Days-2026/refs/heads/main/assets/images/generic.jpg"
+  - "assets/images/generic.jpg"
+  - "assets/images/generic.jpg"
 # Leads profile links (must match order of names above)
 lead_links:
   - ""
@@ -31,7 +31,7 @@ lead_links:
 contributor: ""
 # Speakers photos (must match order of names above). 
 contributor_photos:
- - "https://shareing-dri.github.io/assets/profilepics/generic.jpg"
+  - "assets/images/generic.jpg"
 # Speakers profile links (must match order of names above)
 contributor_links:
   - ""

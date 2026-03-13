@@ -19,7 +19,7 @@ title: "User-driven large-scale federated data movement"
 facilitator: "Alastair Basden"
 # Leads photos (must match order of names above). 
 facilitator_photos:
-  - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
+  - "assets/images/generic.jpg"
 # Leads profile links (must match order of names above)
 facilitator_links:
   - ""
@@ -30,7 +30,7 @@ facilitator_links:
 speaker: ""
 # Speakers photos (must match order of names above). 
 speaker_photos:
- - "https://shareing-dri.github.io/assets/profilepics/generic.jpg"
+  - "assets/images/generic.jpg"
 # Speakers profile links (must match order of names above)
 speaker_links:
   - ""

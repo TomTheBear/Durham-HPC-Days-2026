@@ -19,10 +19,10 @@ title: "We know what to do, so why aren’t we doing it? Closing the EDI Impleme
 lead: "Eleanor Broadway, Marion Weinzierl, Tom Meltzer, Jack Franklin"
 # Leads photos (must match order of names above). 
 lead_photos:
-  - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
-  - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
-  - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
-  - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
+  - "assets/images/generic.jpg"
+  - "assets/images/generic.jpg"
+  - "assets/images/generic.jpg"
+  - "assets/images/generic.jpg"
 # Leads profile links (must match order of names above)
 lead_links:
   - ""
@@ -33,8 +33,8 @@ lead_links:
 contributor: "Luigi del Debbio, Bryan Jones"
 # Contributors' photos (must match order of names above). 
 contributor_photos:
- - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
- - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
+  - "assets/images/generic.jpg"
+  - "assets/images/generic.jpg"
 # Contributors' profile links (must match order of names above)
 contributor_links:
   - ""

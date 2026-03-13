@@ -20,7 +20,7 @@ title: "RIE's and RSE working together towards user friendly, sustainable HPC"
 lead: "Helen Cooper"
 # Leads photos (must match order of names above). 
 lead_photos:
-  - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
+  - "assets/images/generic.jpg"
 # Leads profile links (must match order of names above)
 lead_links:
   - ""
@@ -31,7 +31,7 @@ lead_links:
 contributor: "Dean Roe"
 # contributors photos (must match order of names above). 
 contributor_photos:
- - "https://github.com/hpc-days/Durham-HPC-Days-2026/blob/main/assets/images/generic.jpg?raw=true"
+  - "assets/images/generic.jpg"
 # contributors profile links (must match order of names above)
 contributor_links:
   - ""
