@@ -99,7 +99,7 @@ layout: default
         {% if page.lead_photos and page.lead_photos[forloop.index0] %}
           <img
             class="speaker-photo"
-            src="{{ page.lead_photos[forloop.index0] }}"
+            src="{{ page.lead_photos[forloop.index0] | relative_url }}"
             alt="{{ sp | strip }}">
         {% endif %}
 
@@ -136,7 +136,7 @@ layout: default
         {% if photo != blank %}
           <img
             class="speaker-photo"
-            src="{{ photo }}"
+            src="{{ photo | relative_url }}"
             alt="{{ clean_name }}">
         {% endif %}
 
@@ -167,7 +167,7 @@ layout: default
       <div class="sidebar-section-logo">
         <a href="{{ page.institution_link }}" target="_blank">
           <img 
-            src="{{ page.institution_logo }}" 
+            src="{{ page.institution_logo | relative_url }}"
             alt="{{ page.institution | strip }}">
         </a>
       </div>
@@ -193,7 +193,7 @@ layout: default
       <div class="sidebar-section-logo">
         <a href="{{ page.organiser_link }}" target="_blank">
           <img 
-            src="{{ page.organiser_logo }}" 
+            src="{{ page.organiser_logo | relative_url }}" 
             alt="{{ page.organiser | strip }}">
         </a>
       </div>
@@ -216,7 +216,7 @@ layout: default
       <div class="sidebar-section-logo">
         <a href="{{ page.supported_link }}" target="_blank">
           <img 
-            src="{{ page.supported_logo }}" 
+            src="{{ page.supported_logo | relative_url }}"
             alt="{{ page.supported | strip }}">
         </a>
       </div>
