@@ -55,7 +55,7 @@ permalink: /call-for-sessions/
   The Call for Sessions is now closed.
   <br><br>
   The programme is currently being finalised. Please keep an eye on the 
-  <a href="https://hpc-days.github.io/Durham-HPC-Days-2026/programme-empty/" style="color: #9ecbff; text-decoration: underline;">programme page</a> 
+  <a href="https://hpc-days.github.io/Durham-HPC-Days-2026/programme-hpcdays-2026/" style="color: #9ecbff; text-decoration: underline;">programme page</a> 
   for updates on confirmed sessions and scheduling.
   <br><br>
   We look forward to welcoming you in Durham this June.
