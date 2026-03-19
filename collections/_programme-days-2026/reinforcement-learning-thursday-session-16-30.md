@@ -26,7 +26,7 @@ lead_links:
 
 #CONTRIBUTORS
 # Comma-separated list of the speakers of the session
-contributor: "Shimon Whiteson, Georgios Rigas, Sylvain Laizet, Xu Chu, Luca Magri, Alfredo Pinelli, Junyan Hu"
+contributor: "Alfredo Pinelli, Kelly Zhang, Bidipta Sarkar, Sylvain Laizet, Georgios Rigas, Junyan Hu"
 # Contributors' photos (must match order of names above). 
 contributor_photos:
   - "assets/images/generic.jpg"
