@@ -429,7 +429,7 @@ border-top: 6px solid #f5b800;
   </div>
 
   <t>
-    You can explore examples of projects in the UKRI landscape here: <a href="https://www.cake.ac.uk/landscape/rtp" target="_blank">
+    You can explore examples of projects in the UKRI DRI landscape here: <a href="https://www.cake.ac.uk/landscape/rtp" target="_blank">
       Link to CAKE's website →
     </a>
   </t>
